@@ -1,7 +1,7 @@
 {
-  "name": "circ-seg",
+  "name": "geometer",
   "version": "1.0.0",
-  "description": "A tool for computing various aspects related to a circular segment",
+  "description": "A node package providing some useful geometry.",
   "main": "circseg.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
     "trigonometry"
   ],
   "author": "Spencer Williams",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spilliams/geometer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spilliams/geometer/issues"
+  },
+  "homepage": "https://github.com/spilliams/geometer#readme"
 }
