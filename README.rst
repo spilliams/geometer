@@ -101,11 +101,6 @@ Currently, two of the three values of ``radius``, ``chord``, and ``angle`` are r
 TODO
 ====
 
--  readme rst
-
-	+  definition lists
-	+  Alternate Segment Theorem link
-
 -  circseg.js
 
    +	check for conflicts between answers (within a tolerance?)
